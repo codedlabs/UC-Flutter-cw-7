@@ -11,3 +11,7 @@
 * نقوم باضافة listView من خلالها نقوم باستدعاء title كل مهمة (ملاحظة: مطلوب في حال الضغط على المهمة ننتقل لصفحة تفاصيل المهمة)
 4. صفحة تفاصيل المهمة و فيها تعرض كامل تفاصيل المهمة 
 * في هذه نضيف Text widget 2 من خلالهم نعرض title  المهمة و كامل تفاصيلها
+<img src="images/cw7-1.jpg" height="300"/>
+<img src="images/cw7-2.jpg" height="300"/>
+<img src="images/cw7-3.jpg" height="300"/>
+<img src="images/cw7-4.jpg" height="300"/>
